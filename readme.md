@@ -1,0 +1,1 @@
+Agentic research prototype exploring planner–executor–critic loops
